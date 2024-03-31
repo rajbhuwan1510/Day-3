@@ -17,7 +17,7 @@
 ## Installation
 
     1. Clone this repository:
-        git clone: "https://github.com/your-username/stackoverflow-scraper.git"
+        git clone: "[https://github.com/your-username/stackoverflow-scraper.git](https://github.com/rajbhuwan1510/Day-3/tree/main/scrappingStackOverFlow)"
 
     2. Install the required libraries:
         - Requests
