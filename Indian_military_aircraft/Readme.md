@@ -10,7 +10,7 @@ This assignment involves scraping data from the Wikipedia page "List of active I
 
 ## Script Description
 
-The Python script `scrape_aircraft_data.py` is used to extract information from the Wikipedia page. It utilizes the BeautifulSoup library to parse the HTML content of the page and extract data from the table. The script then processes the extracted data for further analysis or visualization.
+The Python script `Indian_military_aircraft/aircraft.py` is used to extract information from the Wikipedia page. It utilizes the BeautifulSoup library to parse the HTML content of the page and extract data from the table. The script then processes the extracted data for further analysis or visualization.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ The Python script `scrape_aircraft_data.py` is used to extract information from 
 
 ## Usage
 
-1. Run the script `scrape_aircraft_data.py`.
+1. Run the script `Indian_military_aircraft/aircraft.py`.
 2. The script will fetch the HTML content of the Wikipedia page, parse it using BeautifulSoup, and extract data from the table.
 3. The extracted data can be further analyzed or visualized as per the assignment requirements.
 
