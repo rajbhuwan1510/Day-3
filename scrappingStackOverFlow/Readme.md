@@ -1,6 +1,6 @@
 # Stack Overflow Scraper
 
-#### Assignment Link : https://github.com/rajbhuwan1510/Day-3/tree/main/homework
+#### Assignment Link : [https://github.com/rajbhuwan1510/Day-3/tree/main/homework](https://github.com/rajbhuwan1510/Day-3/tree/main/scrappingStackOverFlow)
 
 ## Problem Statement
 #### "Utilize Beautiful Soup to scrape the provided Stack Overflow webpage and extract relevant information pertaining to the question: "How do I get the current time in Python?"
