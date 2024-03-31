@@ -14,7 +14,7 @@ The Python script `Indian_military_aircraft/aircraft.py` is used to extract info
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.2
 - BeautifulSoup4 library
 - Requests library
 
