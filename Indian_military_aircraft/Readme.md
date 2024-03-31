@@ -31,7 +31,7 @@ The Python script `Indian_military_aircraft/aircraft.py` is used to extract info
 
 ## Authors
 
-- Your Name
+- Rajbhuwan Jaitawat
 
 ## License
 
