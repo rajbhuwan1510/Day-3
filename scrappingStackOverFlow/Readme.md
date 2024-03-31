@@ -17,7 +17,7 @@
 ## Installation
 
     1. Clone this repository:
-        git clone: "[https://github.com/your-username/stackoverflow-scraper.git](https://github.com/rajbhuwan1510/Day-3/tree/main/scrappingStackOverFlow)"
+        git clone: "(https://github.com/rajbhuwan1510/Day-3/tree/main/scrappingStackOverFlow)"
 
     2. Install the required libraries:
         - Requests
@@ -43,7 +43,7 @@
         count+=1
 ## Usage
 
-1. Run the script `scrape_stackoverflow.py`.
+1. Run the script `scrappingStackOverFlow/StackOverFlow_Scrapping.py`.
 2. Enter the URL of the Stack Overflow webpage you want to scrape.
 3. Enter the title of the question you want to extract information for.
 4. The script will fetch the HTML content, parse it using Beautiful Soup, and display the question and its answers.
