@@ -21,7 +21,7 @@ The Python script `Indian_military_aircraft/aircraft.py` is used to extract info
 ## Installation
 
 1. Clone this repository:
-2. Install the required libraries:
+2. Install the required libraries: requests and beautifulsoup
 
 ## Usage
 
