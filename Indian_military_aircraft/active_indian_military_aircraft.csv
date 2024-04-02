@@ -1,0 +1,53 @@
+Aircraft,Origin,Type,Variant,In service,Notes,Combat Aircraft,AWACS,Reconnaissance,Tanker,Transport,Helicopters,Trainer Aircraft,UAV
+Combat Aircraft
+MiG-21,Soviet Union,interceptor,MiG-21UPG,40[1],
+MiG-29,Russia,multirole,MiG-29UPG[2],75[3],10 provide conversion training
+HAL Tejas,India,multirole,Mk.1 / 1A,32[4][5][6],170 Mk.1A’s & 17 twin seater conversion trainers are on order. [5][7][8]
+Mirage 2000,France,multirole,2000 H/I,50[9],8 TH/TI variants provide training
+Sukhoi Su-30MKI,Russia,multirole,Su-30MKI,260[10],12 on order[11]
+Dassault Rafale,France,multirole,EH/DH[12],36[3],
+SEPECAT Jaguar,United Kingdom,ground attack,IM/IS[13],160[3],30 IB’s provide training
+AWACS
+Embraer R-99,Brazil,AEW&C,,3[3],equipped with a  DRDO-developed AEW&C system
+Beriev A-50,Soviet Union,AEW&C,A-50EI,3,equipped with the EL/W-2090 radar. 2 on order.[14][15]
+Reconnaissance
+Boeing 707,United States,surveillance,,1[3],
+Global 5000,United States,ELINT,,2[3],
+Gulfstream G100,Israel,surveillance,1125 Astra,2[3],
+Gulfstream III,United States,ELINT,SRA[16],3[3],also used for  electronic-warfare
+Tanker
+Ilyushin Il-78,Soviet Union,aerial refueling,Il-78MKI,6[3],
+Transport
+Boeing 737,United States,VIP transport,737-700,3[17],
+Boeing 777,United States,VIP transport,777-300ER,2[18],used for Air India One for presidential flight
+Embraer Legacy 600,Brazil,VIP transport,,4[19],
+Boeing C-17,United States,strategic airlifter,,11[3],
+Ilyushin Il-76,Soviet Union,strategic airlifter,Il-76MD,17[3],
+Airbus A321,Europe,transport,A321-200,4[3],
+Antonov An-32,Ukraine,transport,,103[3],53 are the 32RE variant[20]
+Dornier Do 228,Germany,transport,228-201,58[3],license built by HAL[21]
+EADS CASA C-295,Spain,transport,C-295MW,1,55 on order - HS 748 replacement[3][22]
+C-130J Super Hercules,United States,tactical airlifter,C-130J-30[23],12[3],
+Hawker Siddeley HS 748,United Kingdom,transport,,57[3],
+Helicopters
+Mil Mi-17,Russia,utility,Mi-17V-5,222[3],
+Mil Mi-24,Russia,attack,Mi-24/25/35,15[3],
+HAL Rudra,India,attack,,16,50 on order.[24]
+HAL Dhruv,India,utility,,95[3],
+Alouette III,France/India,liaison,Chetak,77[3],license-built by  HAL
+SA 315B Lama,France/India,utility,Cheetah,17[3],license-built by  HAL
+Boeing AH-64,United States,attack,AH-64E,22[3],
+CH-47 Chinook,United States,transport,CH-47F,15[3],
+HAL Light Utility Helicopter,India,utility,,,6 on order[25]
+HAL Prachand,India,attack,,10[26],66 on order[27]
+Trainer Aircraft
+BAE Hawk,United Kingdom,Jet trainer,Hawk 132,101[3][28],
+HAL Kiran,India,Jet trainer,,77[3],
+HAL HTT-40,India,basic trainer,,,70 on order[3]
+Pilatus PC-7,Switzerland,trainer,Mk II,75[3],
+Pipistrel Virus,Slovenia,basic trainer,,72[29],
+UAV
+IAI Heron,Israel,surveillance,Heron 1,49[30][31],
+IAI Heron Mk 2,Israel,surveillance,Mk 2,4[32][33],
+IAI Searcher,Israel,surveillance,Mk. I / II,[31],
+ALS-50,India,loitering munition,,100[34],
