@@ -1,0 +1,11 @@
+Objective :- 
+
+As a data scientist, your task is to explore, clean, and transform the IMDb dataset. After ensuring the data's sanity, you will answer several questions related to movie profitability, languages, genres, producers, directors, and actors.
+
+Questions:-
+
+Handling invalid values: 
+There is an invalid value coded as "xx" in the height(cm) column. convert invalid values to "NaN"
+Split ‘age_sex’ column
+ split the 'age_sex' column into two separate columns.
+Reorder the column labels
