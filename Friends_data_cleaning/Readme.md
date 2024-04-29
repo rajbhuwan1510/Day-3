@@ -1,4 +1,4 @@
-#### Assignment Link : https://github.com/rajbhuwan1510/Day-3/tree/main/Friends_data_cleaning
+#### Assignment Link: https://github.com/rajbhuwan1510/Day-3/tree/main/Friends_data_cleaning
 
 ## Objective
 The primary objective of this project is to perform the following tasks:
@@ -16,7 +16,7 @@ The Friends dataset contains information about the following columns:
 
 `lname`: Last name of individuals involved in the movies.
 
-`age_sex`: Combined column indicating age and sex of individuals.
+`age_sex`: Combined column indicating the age and sex of individuals.
 
 `section`: Section of the movie.
 
