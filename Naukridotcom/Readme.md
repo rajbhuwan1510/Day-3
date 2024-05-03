@@ -2,15 +2,15 @@
 
 ## Objective
 
-The objective of this assignment is to familiarize students with web scraping techniques using Python and data analysis. Students are required to extract information from the Web page titled "Naukri" (https://en.wikipedia.org/wiki/List_of_active_Indian_military_aircraft](https://www.naukri.com/)) using the BeautifulSoup library in Python.
+The objective of this assignment is to familiarize students with web scraping techniques using Python and data analysis. Students are required to extract information from the Web page titled "Naukri" (https://www.naukri.com/)) using the BeautifulSoup library in Python.
 
 ## Overview
 
-This assignment involves scraping data from the Wikipedia page "List of active Indian military aircraft" and extracting information from the table present on the page. The extracted data will be used for further analysis.
+This assignment involves scraping data from the web page "Naukri.com" and extracting information from the table present on the page. The extracted data will be used for further analysis.
 
 ## Script Description
 
-The Python script `Indian_military_aircraft/aircraft.py` is used to extract information from the Wikipedia page. It utilizes the BeautifulSoup library to parse the HTML content of the page and extract data from the table. The script then processes the extracted data for further analysis or visualization.
+The Python script `Naukridotcom/scrap.py` is used to extract information from the web page. It utilizes the BeautifulSoup library to parse the HTML content of the page and extract data from the table. The script then processes the extracted data for further analysis or visualization.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ The Python script `Indian_military_aircraft/aircraft.py` is used to extract info
 
 ## Usage
 
-1. Run the script `Indian_military_aircraft/aircraft.py`.
+1. Run the script `Naukridotcom/scrap.py`.
 2. The script will fetch the HTML content of the Wikipedia page, parse it using BeautifulSoup, and extract data from the table.
 3. The extracted data can be further analyzed or visualized as per the assignment requirements.
 
